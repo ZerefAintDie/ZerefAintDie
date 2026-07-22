@@ -13,4 +13,4 @@ I am interested in:
 Python • SQL • Scikit-learn • NLP • RAG • LLMs • Docker • PowerBI • Excel
 
 📫 Reach me at: malthafino36@gmail.com
-🌐 Portfolio: [->](althafino.vercel.app)
+🌐 Portfolio: [althafino.vercel.app](althafino.vercel.app)
